@@ -321,8 +321,6 @@ namespace SharpAttack
             Console.WriteLine("\n============================");
             Console.WriteLine("\n[*] All checks have finished");
             Console.WriteLine("\n============================");
-
-            Console.ReadLine();
         }
     }
 }
